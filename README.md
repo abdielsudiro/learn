@@ -1,2 +1,2 @@
 # README
-Smart Contract developement using Hardhat and Openzeppelin.
+Smart Contract development using Hardhat and Openzeppelin.
